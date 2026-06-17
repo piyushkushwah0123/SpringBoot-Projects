@@ -1,0 +1,11 @@
+<html>
+
+<head>
+	<title> Welcome to App </title>
+</head>
+
+<body>
+	<h1> ${obj} </h1>
+</body>
+
+</html>
